@@ -1,0 +1,11 @@
+// Skriv den rette datatype og et passende variabelnavn foran denne værdi: String teacherName= "Tess Løvgreen"
+String teachername = "Tess Løvgreen";
+int daysOfTheYear = 365;
+String city = "København";
+boolean isTrue = true;
+int number = 60*24;
+float number = 22.12
+String name = "Hej, jeg heddder "+teachername;
+boolean isFalse = false;
+float number 2 = 2.2 + 33;
+char letter = 'S';
